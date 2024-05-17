@@ -8,7 +8,8 @@ Welcome to our eCommerce app built with ReactJS! This application provides a pla
 - **Search Functionality:** Easily find products using the search bar.
 - **User Authentication:** Register an account or login securely to access additional features like saving items to the wishlist and viewing order history.
 - **Shopping Cart:** Add products to your cart and proceed to checkout seamlessly.
-- **Payment Integration:** Securely complete transactions using integrated payment gateways, including Braintree and PayPal API solutions. With Braintree, users can securely process credit card payments, PayPal payments, and other payment methods, while PayPal API allows users to pay conveniently with their PayPal accounts. These integrations ensure the safety of users' payment information and provide a seamless checkout experience.
+- **Payment Integration:** Securely complete transactions using integrated payment gateways, including Braintree and PayPal API solutions. With Braintree, users can securely process credit card payments, PayPal payments, and other payment methods, while PayPal API 
+    allows users to pay conveniently with their PayPal accounts. These integrations ensure the safety of users' payment information and provide a seamless checkout experience.
 - **Order Tracking:** Track the status of your orders from purchase to delivery.
 - **Admin Dashboard:** Manage orders, products, and categories from a centralized admin panel.
 - **Responsive Design:** Enjoy a seamless experience across devices, including desktops, tablets, and smartphones.
@@ -53,7 +54,7 @@ To run the eCommerce app locally, follow these steps:
 - React Router (for routing)
 - RESTful API (for backend integration)
 - Braintree and PayPal API (for payment integration)
-- Firebase Authentication (or any other authentication service)
+- JWT Authentication (or any other authentication service)
 - Responsive Web Design
 
 ## Contributing
